@@ -1,0 +1,116 @@
+a {
+    color: lightskyblue;
+}
+.bld {
+    font-weight: bold;
+}
+body {
+    background-color: black;
+}
+.emp { /*Emphasis*/
+    color: #5D8736; /*https://colorhunt.co/palette/5d8736809d3ca9c46cf4ffc3*/
+}
+footer {
+    margin: auto;
+    padding: 5px 10px;
+    color: darkgray;
+    text-align: center;
+}
+.fsi {
+    font-style: italic;
+    color: whitesmoke;
+}
+h1 {
+    color: olive;
+}
+h2 {
+    color: rgb(142, 172, 205);
+}
+h3 {
+    color: rgb(102, 123, 198);
+}
+h4 {
+    color: steelblue;
+    font-size: 14pt;
+}
+h5 {
+    color: chocolate;
+    font-size: 13pt;
+}
+h6 {
+    font-size: 12pt;
+}
+header {
+    margin: auto;
+    padding: 5px 10px;
+    /*text-align: center;*/
+}
+header hr {
+    border: 1px dotted;
+}
+header img {
+    margin: auto;
+    width: 15%;
+}
+header small {
+    font-size: 11pt;
+    color: #AC7EE1;
+}
+header ul {
+    list-style: none;
+    margin: 2px;
+    padding-left: 2px;
+    display: inline-block;
+}
+header li {
+    color: cornflowerblue;
+    display: inline-block;
+}
+img {
+    margin: 1px 0;
+    width: 100%;
+}
+.img25 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.img40 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.img50 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.img80 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.key {
+    color: rgb(106, 154, 176);
+}
+main {
+    margin: auto;
+    padding: 5px 10px;
+    color: darkgrey;
+    line-height: 1.6;
+}
+.div1 {
+    background-color: rgb(40, 40, 40);
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.div2 {
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+strong {
+    font-weight: normal;
+    color: darkkhaki;
+}
