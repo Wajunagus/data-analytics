@@ -10,12 +10,6 @@ body {
 .emp { /*Emphasis*/
     color: #5D8736; /*https://colorhunt.co/palette/5d8736809d3ca9c46cf4ffc3*/
 }
-footer {
-    margin: auto;
-    padding: 5px 10px;
-    color: darkgray;
-    text-align: center;
-}
 .fsi {
     font-style: italic;
     color: whitesmoke;
@@ -43,7 +37,6 @@ h6 {
 header {
     margin: auto;
     padding: 5px 10px;
-    /*text-align: center;*/
 }
 header hr {
     border: 1px dotted;
@@ -100,15 +93,6 @@ main {
     padding: 5px 10px;
     color: darkgrey;
     line-height: 1.6;
-}
-.div1 {
-    background-color: rgb(40, 40, 40);
-    padding: 5px 10px;
-    border-radius: 10px;
-}
-.div2 {
-    padding: 5px 10px;
-    border-radius: 10px;
 }
 strong {
     font-weight: normal;
